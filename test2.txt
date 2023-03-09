@@ -1,0 +1,3 @@
+I wrot a documntation for the usrs to undrstand the appliction.
+I plan to uplod the updatd versin of the softwre soon.
+The performnce of the appliction can be improvrd by optimizin the cod.

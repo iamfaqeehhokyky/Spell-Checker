@@ -1,0 +1,6 @@
+Thiz is a test file for my projct. I hav to chek if all the functionz are workin propely. 
+The resulz of the testz will be analized later. 
+My frend helped me to debug the cod. 
+I hope the programm will run smothly on all opreating systms. 
+I researced a lot to find the solution of the problm.
+The librery I used has a lot of feautures and utilitis.
